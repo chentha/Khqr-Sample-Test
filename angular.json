@@ -39,7 +39,11 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/qrcode.min.js",
+
+              "src/assets/js/khqr-1.0.15.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -99,7 +103,8 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+            ]
           }
         }
       }
