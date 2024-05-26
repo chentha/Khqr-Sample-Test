@@ -1,11 +1,4 @@
-function myFun(){
-  window.alert('hiiiii')
-}
-
 const KHQR = BakongKHQR
-    function greate(){
-      alert("hi")
-    }
     const KHQRString =
         "00020101021229600009khqr@ppcb011397000000239360226Phnom Penh Commercial Bank5204599953038405402105802KH5905VShop6010PHNOM PENH6228012400017020240521000008420199170013171628268728163047C9A";
 

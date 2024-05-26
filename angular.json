@@ -41,8 +41,8 @@
             ],
             "scripts": [
               "src/assets/js/qrcode.min.js",
-
-              "src/assets/js/khqr-1.0.15.min.js"
+              "src/assets/js/khqr-1.0.15.min.js",
+              "src/assets/js/script.js"
             ]
           },
           "configurations": {
@@ -109,5 +109,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "bd06f554-bb6d-4ff8-8fb6-085ae98698de"
   }
 }
